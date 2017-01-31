@@ -1,0 +1,7 @@
+#Mon Jan 30 20:03:02 EST 2017
+base.0=/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ec53bc8511c2ad200c919264c8b418078df4b3f9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9a2c9ed680cff7b68d8d2cf83b378448f41c2815/classes.dex
+base.1=/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9a2c9ed680cff7b68d8d2cf83b378448f41c2815
+file.0=/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ec53bc8511c2ad200c919264c8b418078df4b3f9/classes.dex

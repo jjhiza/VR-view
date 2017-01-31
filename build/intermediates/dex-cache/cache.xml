@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_c6e7b94d177d88d71a2d765ed87a26aecb14d8e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_572fce72a87cef1874e0371070525927b2d85a7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_a735f5c4ef81b1ba18d10f1e3871f1b86bc1ab3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/exploded-aar/com.google.vr/sdk-audio/1.10.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f73e02badf8404a0c3bab95d94ec28ebe9467210">
+        <dex dex="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.vr-sdk-audio-1.10.0_c75a1c0b1465fa2fcc87a7fb21992310f51c213b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_37283c2bbbf7061a25fce25accaeac9e7f5c56de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/exploded-aar/com.google.vr/sdk-base/1.10.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d00981db16e297a76c95aba4372d200b1e2420d2">
+        <dex dex="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.vr-sdk-base-1.10.0_4bc55104cc8980fa648c39717fec863346a47c66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c113840e44a0833e40f39c3449f2a70515cfe1c2">
+        <dex dex="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ec53bc8511c2ad200c919264c8b418078df4b3f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_d566bea87723739eeaf79f44f51556fc6c1c70e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c00437646357e59e38296de0099a28a90beae982">
+        <dex dex="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9a2c9ed680cff7b68d8d2cf83b378448f41c2815/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jay/.gradle/caches/modules-2/files-2.1/com.google.protobuf.nano/protobuf-javanano/3.1.0/5110f05deac8f15244897b3f70e9ce413468771d/protobuf-javanano-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5110f05deac8f15244897b3f70e9ce413468771d">
+        <dex dex="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/protobuf-javanano-3.1.0_b7f95b4df4c6274d0565af856fbd3996e394766a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/exploded-aar/com.google.vr/sdk-panowidget/1.10.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="599391252c9619b99dbc5cea5685da204a07f03c">
+        <dex dex="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.vr-sdk-panowidget-1.10.0_913ce21cc0d35a08e83993b16a8a411102dc3ad4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_76391bf9477a61c437bc1578e8630117d12c1a79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r1.5.10/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3d2ea9cdd5b272666e03c7977440b494b63db77c">
+        <dex dex="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.exoplayer-exoplayer-r1.5.10_8b97baf6363edc08436cc9cd19025e8091b3d9e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/exploded-aar/com.google.vr/sdk-videowidget/1.10.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f393ba16cb12a4797191ad798f2e00e58f1e628a">
+        <dex dex="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.vr-sdk-videowidget-1.10.0_ce2508d8c972fc6d2723f6995cdb3c670e0a1cbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/exploded-aar/com.google.vr/sdk-common/1.10.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5f4e44ef932f9ce4e19dde2e24375ebee06e686">
+        <dex dex="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.vr-sdk-common-1.10.0_7186c5b1dd6cad2f1ab65ee67b119516c850b72a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_b381b2991a295f872f20e79267f40310ca13b05c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jay/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_29bba37b1b31d3b42fc0bc7c23e55aa36ee43887/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/exploded-aar/com.google.vr/sdk-commonwidget/1.10.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d4d5c35a22b8e4563afeb030eb16f137717503d1">
+        <dex dex="/home/jay/Android-Projects/vr-view/vr_view_app_101/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.vr-sdk-commonwidget-1.10.0_9a20005b97da403254da636196eb57e631d4a039/classes.dex" />
+    </item>
+
+</items>
